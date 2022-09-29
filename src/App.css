@@ -1,0 +1,13 @@
+#root {
+    font-family: 'Oxygen', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    text-align: -webkit-center;
+  }
+
+ h1{
+    font-weight: bold 700;
+ } 
+
